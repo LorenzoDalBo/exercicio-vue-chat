@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --cor-primaria: #00ADB5;
+    --cor-fundo: #393E46;
+    --cor-hover: #B54800;
+    --cor-destaque: #EEEEEE;
+    --cor-texto: #
+}
