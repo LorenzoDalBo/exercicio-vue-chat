@@ -4,8 +4,10 @@
 
 :root {
     --cor-primaria: #00ADB5;
-    --cor-fundo: #393E46;
-    --cor-hover: #B54800;
-    --cor-destaque: #EEEEEE;
-    --cor-texto: #
+    --cor-secundaria: #0ACCA0;
+    --cor-fundo: #222831;
+    --cor-hover: #00B8C2;
+    --cor-destaque: #0A58C2;
+    --cor-texto: #EEEEEE;
+    --cor-chat: #393E46;
 }

@@ -7,7 +7,11 @@ module.exports = {
         'cor-primaria': 'var(--cor-primaria)',
         'cor-fundo': 'var(--cor-fundo)',
         'cor-destaque': 'var(--cor-destaque)',
-        'cor-texto' : 'var(--cor-texto)'
+        'cor-texto' : 'var(--cor-texto)',
+        'cor-secundaria' : 'var(--cor-secundaria)',
+        'cor-hover' : 'var(--cor-hover)',
+        'cor-chat' : 'var(--cor-chat)'
+
       }
     },
   },
